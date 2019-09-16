@@ -96,6 +96,12 @@
     <ClCompile Include="96.不同的二叉搜索树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="120. 三角形最小路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="120.三角形最小路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
