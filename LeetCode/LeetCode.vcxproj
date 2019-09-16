@@ -138,7 +138,11 @@
     <ClCompile Include="53.最大子序和.cpp" />
     <ClCompile Include="62.不同路径.cpp" />
     <ClCompile Include="63.不同路径II.cpp" />
+    <ClCompile Include="64.最小路径和.cpp" />
+    <ClCompile Include="70.爬楼梯.cpp" />
+    <ClCompile Include="91.解码方法.cpp" />
     <ClCompile Include="94. 二叉树的中序遍历.cpp" />
+    <ClCompile Include="96.不同的二叉搜索树.cpp" />
     <ClCompile Include="Longest Palindromic Substring.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Palindrome Number.cpp" />
@@ -151,6 +155,9 @@
     <Text Include="53.最大子段和.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />
+    <Text Include="64.最小路径和.txt" />
+    <Text Include="91.解码方法.txt" />
+    <Text Include="96.不同的二叉搜索树.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

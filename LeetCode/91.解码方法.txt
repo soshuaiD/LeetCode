@@ -1,0 +1,2 @@
+动态规划
+dp[i]=dp[i-1]*check(s[i])+dp[i-2]*check(s[i-1],s[i]);
