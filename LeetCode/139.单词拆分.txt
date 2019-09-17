@@ -1,0 +1,3 @@
+动态规划
+完全背包
+dp[i] = dp[i]||(compare(a,b)&&dp[i-a.length])

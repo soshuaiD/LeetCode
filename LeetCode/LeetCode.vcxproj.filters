@@ -99,7 +99,7 @@
     <ClCompile Include="120. 三角形最小路径和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="120.三角形最小路径和.cpp">
+    <ClCompile Include="139.单词拆分.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -120,6 +120,12 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="96.不同的二叉搜索树.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="120.最小路径和.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="139.单词拆分.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

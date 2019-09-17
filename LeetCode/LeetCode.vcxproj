@@ -125,8 +125,8 @@
   <ItemGroup>
     <ClCompile Include="11.盛水最多的容器.cpp" />
     <ClCompile Include="120. 三角形最小路径和.cpp" />
-    <ClCompile Include="120.三角形最小路径和.cpp" />
     <ClCompile Include="130. 被围绕的区域.cpp" />
+    <ClCompile Include="139.单词拆分.cpp" />
     <ClCompile Include="144. 二叉树的前序遍历.cpp" />
     <ClCompile Include="15.三数之和.cpp" />
     <ClCompile Include="16.最接近的三数之和.cpp" />
@@ -154,6 +154,8 @@
     <ClCompile Include="合并两个有序链表.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="120.最小路径和.txt" />
+    <Text Include="139.单词拆分.txt" />
     <Text Include="53.最大子段和.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />
