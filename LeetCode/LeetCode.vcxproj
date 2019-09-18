@@ -129,9 +129,11 @@
     <ClCompile Include="139.单词拆分.cpp" />
     <ClCompile Include="144. 二叉树的前序遍历.cpp" />
     <ClCompile Include="15.三数之和.cpp" />
+    <ClCompile Include="152.乘积最大子序列.cpp" />
     <ClCompile Include="16.最接近的三数之和.cpp" />
     <ClCompile Include="18.四数之和.cpp" />
     <ClCompile Include="19.删除链表的倒数第n个节点.cpp" />
+    <ClCompile Include="198.打家劫舍.cpp" />
     <ClCompile Include="20.有效的括号.cpp" />
     <ClCompile Include="26. 删除排序数组中的重复项.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
@@ -156,6 +158,8 @@
   <ItemGroup>
     <Text Include="120.最小路径和.txt" />
     <Text Include="139.单词拆分.txt" />
+    <Text Include="152.乘积最大子序列.txt" />
+    <Text Include="198.打家劫舍.txt" />
     <Text Include="53.最大子段和.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />

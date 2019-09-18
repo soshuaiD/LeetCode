@@ -1,0 +1,11 @@
+
+
+动态规划
+if nums.size()==1
+	return nums[0];
+if nums.size()==2
+	return max(nums[0],nums[1]);
+
+dp[i] 前i个数的目标最大值
+若dp[i]未取nums[i],则dp[i]==dp[i-1]
+dp[i]=max(dp[i-2]+nums[i],dp[i-1])
