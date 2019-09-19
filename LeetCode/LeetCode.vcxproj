@@ -135,6 +135,7 @@
     <ClCompile Include="19.删除链表的倒数第n个节点.cpp" />
     <ClCompile Include="198.打家劫舍.cpp" />
     <ClCompile Include="20.有效的括号.cpp" />
+    <ClCompile Include="213. 打家劫舍 II.cpp" />
     <ClCompile Include="26. 删除排序数组中的重复项.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
     <ClCompile Include="28. 实现 strStr().cpp" />
@@ -160,6 +161,7 @@
     <Text Include="139.单词拆分.txt" />
     <Text Include="152.乘积最大子序列.txt" />
     <Text Include="198.打家劫舍.txt" />
+    <Text Include="213.打家劫舍II.txt" />
     <Text Include="53.最大子段和.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />
