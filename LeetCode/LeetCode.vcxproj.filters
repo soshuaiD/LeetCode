@@ -111,8 +111,11 @@
     <ClCompile Include="120. 三角形最小路径和.cpp">
       <Filter>源文件\dp</Filter>
     </ClCompile>
+    <ClCompile Include="221.最大正方形.cpp">
+      <Filter>源文件\dp</Filter>
+    </ClCompile>
     <ClCompile Include="213. 打家劫舍 II.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\dp</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -147,6 +150,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="213.打家劫舍II.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="221.最大正方形.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
