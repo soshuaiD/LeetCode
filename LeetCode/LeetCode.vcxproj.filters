@@ -117,6 +117,9 @@
     <ClCompile Include="213. 打家劫舍 II.cpp">
       <Filter>源文件\dp</Filter>
     </ClCompile>
+    <ClCompile Include="264.丑数II.cpp">
+      <Filter>源文件\dp</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -153,6 +156,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="221.最大正方形.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="264.丑数II.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

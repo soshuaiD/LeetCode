@@ -138,6 +138,7 @@
     <ClCompile Include="213. 打家劫舍 II.cpp" />
     <ClCompile Include="221.最大正方形.cpp" />
     <ClCompile Include="26. 删除排序数组中的重复项.cpp" />
+    <ClCompile Include="264.丑数II.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
     <ClCompile Include="28. 实现 strStr().cpp" />
     <ClCompile Include="38.报数.cpp" />
@@ -164,6 +165,7 @@
     <Text Include="198.打家劫舍.txt" />
     <Text Include="213.打家劫舍II.txt" />
     <Text Include="221.最大正方形.txt" />
+    <Text Include="264.丑数II.txt" />
     <Text Include="53.最大子段和.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />
