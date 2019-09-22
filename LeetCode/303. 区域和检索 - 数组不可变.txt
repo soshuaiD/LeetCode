@@ -1,0 +1,6 @@
+动态规划
+
+由于sumRange()被多次调用，每次调用复杂度为O(n)
+因此创建数组dp[j]记录nums从0加到j-1,复杂度O(n)
+调用sumRange(i,j) = dp[j+1]-dp[i]
+复杂度O(1)

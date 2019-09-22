@@ -120,6 +120,18 @@
     <ClCompile Include="264.丑数II.cpp">
       <Filter>源文件\dp</Filter>
     </ClCompile>
+    <ClCompile Include="279.完全平方数.cpp">
+      <Filter>源文件\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="300. 最长上升子序列.cpp">
+      <Filter>源文件\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="303. 区域和检索 - 数组不可变.cpp">
+      <Filter>源文件\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="304. 二维区域和检索 - 矩阵不可变.cpp">
+      <Filter>源文件\dp</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -159,6 +171,15 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="264.丑数II.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="300.最长上升子序列.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="303. 区域和检索 - 数组不可变.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="304. 二维区域和检索 - 矩阵不可变.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

@@ -140,7 +140,11 @@
     <ClCompile Include="26. 删除排序数组中的重复项.cpp" />
     <ClCompile Include="264.丑数II.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
+    <ClCompile Include="279.完全平方数.cpp" />
     <ClCompile Include="28. 实现 strStr().cpp" />
+    <ClCompile Include="300. 最长上升子序列.cpp" />
+    <ClCompile Include="303. 区域和检索 - 数组不可变.cpp" />
+    <ClCompile Include="304. 二维区域和检索 - 矩阵不可变.cpp" />
     <ClCompile Include="38.报数.cpp" />
     <ClCompile Include="53.最大子序和.cpp" />
     <ClCompile Include="62.不同路径.cpp" />
@@ -166,6 +170,9 @@
     <Text Include="213.打家劫舍II.txt" />
     <Text Include="221.最大正方形.txt" />
     <Text Include="264.丑数II.txt" />
+    <Text Include="300.最长上升子序列.txt" />
+    <Text Include="303. 区域和检索 - 数组不可变.txt" />
+    <Text Include="304. 二维区域和检索 - 矩阵不可变.txt" />
     <Text Include="53.最大子段和.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />

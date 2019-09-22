@@ -1,0 +1,5 @@
+动态规划
+这道题目与一维的类似
+res[i+1][j+1]存放的是(0,0)加到[i,j]的和
+构造res复杂度O(n^2)
+计算 sumRegion(int row1, int col1, int row2, int col2)时间复杂度O(1)
