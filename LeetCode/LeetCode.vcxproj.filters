@@ -16,6 +16,9 @@
     <Filter Include="源文件\dp">
       <UniqueIdentifier>{8cd66b4e-738d-4d8e-b458-0ea647ec9d0b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\stack">
+      <UniqueIdentifier>{29079c4a-a229-4c26-ae02-fd3e2f9890a4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -28,9 +31,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="String to Integer (atoi).cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="20.有效的括号.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="合并两个有序链表.cpp">
@@ -132,6 +132,15 @@
     <ClCompile Include="304. 二维区域和检索 - 矩阵不可变.cpp">
       <Filter>源文件\dp</Filter>
     </ClCompile>
+    <ClCompile Include="309. 最佳买卖股票时机含冷冻期.cpp">
+      <Filter>源文件\dp</Filter>
+    </ClCompile>
+    <ClCompile Include="20.有效的括号.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="71. 简化路径.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -180,6 +189,12 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="304. 二维区域和检索 - 矩阵不可变.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="309. 最佳买卖股票时机含冷冻期.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="71.简化路径.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

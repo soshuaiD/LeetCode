@@ -1,14 +1,14 @@
-#include <iostream>
-#include <string>
-#include <cmath>
-#include <stack>
-#include <queue>
-#include <map>
-#include <vector>
-#include <cstdio>
-using namespace std;
-#pragma warning(disable:4996)
-
+//#include <iostream>
+//#include <string>
+//#include <cmath>
+//#include <stack>
+//#include <queue>
+//#include <map>
+//#include <vector>
+//#include <cstdio>
+//using namespace std;
+//#pragma warning(disable:4996)
+//
 //void bisection(vector<int>& dp, int num)
 //{
 //	if (num<=dp[0])
@@ -63,10 +63,10 @@ using namespace std;
 //	}
 //	return dp.size();
 //}
-
-int main()
-{
-	vector<int> dp = { 10,9,2,5,3,7,101,18 };
-	cout << lengthOfLIS(dp) << endl;
-	system("pause"); 
-}
+//
+//int main()
+//{
+//	vector<int> dp = { 10,9,2,5,3,7,101,18 };
+//	cout << lengthOfLIS(dp) << endl;
+//	system("pause"); 
+//}

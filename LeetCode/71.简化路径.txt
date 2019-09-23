@@ -1,0 +1,4 @@
+栈存string
+遇到/开始处理
+从栈里倒出来
+res = '/'+stack.top()+res
