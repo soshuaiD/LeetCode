@@ -154,6 +154,7 @@
     <ClCompile Include="70.爬楼梯.cpp" />
     <ClCompile Include="71. 简化路径.cpp" />
     <ClCompile Include="91.解码方法.cpp" />
+    <ClCompile Include="94. 二叉树的中序遍历(stack).cpp" />
     <ClCompile Include="94. 二叉树的中序遍历.cpp" />
     <ClCompile Include="96.不同的二叉搜索树.cpp" />
     <ClCompile Include="Longest Palindromic Substring.cpp" />
