@@ -144,6 +144,12 @@
     <ClCompile Include="94. 二叉树的中序遍历(stack).cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="103. 二叉树的锯齿形层次遍历.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="144.二叉树的前序遍历(stack).cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -198,6 +204,12 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="71.简化路径.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="103. 二叉树的锯齿形层次遍历.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="144.二叉树的前序遍历.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
