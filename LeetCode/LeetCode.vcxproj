@@ -133,7 +133,9 @@
     <ClCompile Include="15.三数之和.cpp" />
     <ClCompile Include="150. 逆波兰表达式求值.cpp" />
     <ClCompile Include="152.乘积最大子序列.cpp" />
+    <ClCompile Include="155.最小栈.cpp" />
     <ClCompile Include="16.最接近的三数之和.cpp" />
+    <ClCompile Include="173. 二叉搜索树迭代器.cpp" />
     <ClCompile Include="18.四数之和.cpp" />
     <ClCompile Include="19.删除链表的倒数第n个节点.cpp" />
     <ClCompile Include="198.打家劫舍.cpp" />
@@ -172,7 +174,9 @@
     <Text Include="139.单词拆分.txt" />
     <Text Include="144.二叉树的前序遍历.txt" />
     <Text Include="145. 二叉树的后序遍历.txt" />
+    <Text Include="150.最小栈.txt" />
     <Text Include="152.乘积最大子序列.txt" />
+    <Text Include="173. 二叉搜索树迭代器.txt" />
     <Text Include="198.打家劫舍.txt" />
     <Text Include="213.打家劫舍II.txt" />
     <Text Include="221.最大正方形.txt" />
@@ -190,7 +194,7 @@
     <Text Include="96.不同的二叉搜索树.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="150.逆波兰表达式求值txt" />
+    <None Include="150.逆波兰表达式求值.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

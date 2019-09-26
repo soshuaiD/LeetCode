@@ -147,6 +147,12 @@
     <ClCompile Include="150. 逆波兰表达式求值.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="155.最小栈.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="173. 二叉搜索树迭代器.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -212,9 +218,15 @@
     <Text Include="145. 二叉树的后序遍历.txt">
       <Filter>资源文件</Filter>
     </Text>
+    <Text Include="150.最小栈.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="173. 二叉搜索树迭代器.txt">
+      <Filter>资源文件</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
-    <None Include="150.逆波兰表达式求值txt">
+    <None Include="150.逆波兰表达式求值.txt">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>

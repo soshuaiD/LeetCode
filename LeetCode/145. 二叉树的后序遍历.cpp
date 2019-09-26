@@ -1,20 +1,20 @@
-#include <iostream>
-#include <string>
-#include <cmath>
-#include <stack>
-#include <queue>
-#include <map>
-#include <vector>
-#include <cstdio>
-using namespace std;
-#pragma warning(disable:4996)
-
-struct TreeNode {
-	int val;
-	TreeNode* left;
-	TreeNode* right;
-	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
+//#include <iostream>
+//#include <string>
+//#include <cmath>
+//#include <stack>
+//#include <queue>
+//#include <map>
+//#include <vector>
+//#include <cstdio>
+//using namespace std;
+//#pragma warning(disable:4996)
+//
+//struct TreeNode {
+//	int val;
+//	TreeNode* left;
+//	TreeNode* right;
+//	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+//};
 
 //vector<int> postorderTraversal(TreeNode* root) {
 //	vector<int> ans;
@@ -61,7 +61,7 @@ struct TreeNode {
 //	return ans;
 //}
 
-int main()
-{
-	system("pause"); 
-}
+//int main()
+//{
+//	system("pause"); 
+//}
