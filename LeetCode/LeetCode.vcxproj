@@ -142,6 +142,8 @@
     <ClCompile Include="20.有效的括号.cpp" />
     <ClCompile Include="213. 打家劫舍 II.cpp" />
     <ClCompile Include="221.最大正方形.cpp" />
+    <ClCompile Include="225.用队列实现栈.cpp" />
+    <ClCompile Include="232. 用栈实现队列.cpp" />
     <ClCompile Include="26. 删除排序数组中的重复项.cpp" />
     <ClCompile Include="264.丑数II.cpp" />
     <ClCompile Include="27. 移除元素.cpp" />
@@ -151,6 +153,7 @@
     <ClCompile Include="303. 区域和检索 - 数组不可变.cpp" />
     <ClCompile Include="304. 二维区域和检索 - 矩阵不可变.cpp" />
     <ClCompile Include="309. 最佳买卖股票时机含冷冻期.cpp" />
+    <ClCompile Include="331. 验证二叉树的前序序列化.cpp" />
     <ClCompile Include="38.报数.cpp" />
     <ClCompile Include="53.最大子序和.cpp" />
     <ClCompile Include="62.不同路径.cpp" />
@@ -185,6 +188,7 @@
     <Text Include="303. 区域和检索 - 数组不可变.txt" />
     <Text Include="304. 二维区域和检索 - 矩阵不可变.txt" />
     <Text Include="309. 最佳买卖股票时机含冷冻期.txt" />
+    <Text Include="331.验证二叉树的前序序列化.txt" />
     <Text Include="53.最大子段和.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />
