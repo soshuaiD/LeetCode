@@ -162,6 +162,9 @@
     <ClCompile Include="331. 验证二叉树的前序序列化.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="394. 字符串解码.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -234,6 +237,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="331.验证二叉树的前序序列化.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="394.字符串解码.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
