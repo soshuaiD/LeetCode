@@ -156,6 +156,7 @@
     <ClCompile Include="331. 验证二叉树的前序序列化.cpp" />
     <ClCompile Include="38.报数.cpp" />
     <ClCompile Include="394. 字符串解码.cpp" />
+    <ClCompile Include="402. 移掉K位数字.cpp" />
     <ClCompile Include="53.最大子序和.cpp" />
     <ClCompile Include="62.不同路径.cpp" />
     <ClCompile Include="63.不同路径II.cpp" />
@@ -191,6 +192,7 @@
     <Text Include="309. 最佳买卖股票时机含冷冻期.txt" />
     <Text Include="331.验证二叉树的前序序列化.txt" />
     <Text Include="394.字符串解码.txt" />
+    <Text Include="402.移掉K位数字.txt" />
     <Text Include="53.最大子段和.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />
