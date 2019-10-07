@@ -168,6 +168,9 @@
     <ClCompile Include="402. 移掉K位数字.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="456.132模式.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -246,6 +249,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="402.移掉K位数字.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="456.132模式.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

@@ -1,0 +1,10 @@
+这题思路非常巧妙
+用second存放可能的2
+用three栈存放可能的3，并从中挑选出2
+从后往前遍历，维护一个递减栈，栈中始终存在一个数>second
+if nums[i]<second return true;
+else
+	if nums[i]<top
+		在栈非空情况下弹出所有比nums[i]小的元素
+		second尽量大，每一个弹出的元素都可能为2
+	nums[i]入栈，若栈空，潜在的3，否则是潜在的2
