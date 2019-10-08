@@ -171,6 +171,9 @@
     <ClCompile Include="456.132模式.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="739. 每日温度.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -252,6 +255,15 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="456.132模式.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="496. 下一个更大元素 I.cpp">
+      <Filter>源文件\stack</Filter>
+    </Text>
+    <Text Include="496.下一个更大元素I.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="739.每日温度.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
