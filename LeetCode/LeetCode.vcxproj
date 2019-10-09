@@ -158,12 +158,15 @@
     <ClCompile Include="394. 字符串解码.cpp" />
     <ClCompile Include="402. 移掉K位数字.cpp" />
     <ClCompile Include="456.132模式.cpp" />
+    <ClCompile Include="503. 下一个更大元素 II.cpp" />
     <ClCompile Include="53.最大子序和.cpp" />
     <ClCompile Include="62.不同路径.cpp" />
     <ClCompile Include="63.不同路径II.cpp" />
     <ClCompile Include="64.最小路径和.cpp" />
+    <ClCompile Include="682. 棒球比赛.cpp" />
     <ClCompile Include="70.爬楼梯.cpp" />
     <ClCompile Include="71. 简化路径.cpp" />
+    <ClCompile Include="735. 行星碰撞.cpp" />
     <ClCompile Include="739. 每日温度.cpp" />
     <ClCompile Include="91.解码方法.cpp" />
     <ClCompile Include="94. 二叉树的中序遍历(stack).cpp" />
@@ -198,6 +201,7 @@
     <Text Include="456.132模式.txt" />
     <Text Include="496. 下一个更大元素 I.cpp" />
     <Text Include="496.下一个更大元素I.txt" />
+    <Text Include="503.下一个更大的元素II.txt" />
     <Text Include="53.最大子段和.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />

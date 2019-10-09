@@ -1,3 +1,4 @@
-﻿  402. 移掉K位数字.cpp
-D:\study\Code\LeetCode\LeetCode\402. 移掉K位数字.cpp(18,20): warning C4018:  “<”: 有符号/无符号不匹配
+﻿  735. 行星碰撞.cpp
+D:\study\Code\LeetCode\LeetCode\735. 行星碰撞.cpp(16,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\study\Code\LeetCode\LeetCode\735. 行星碰撞.cpp(52,20): warning C4018:  “<”: 有符号/无符号不匹配
   LeetCode.vcxproj -> D:\study\Code\LeetCode\Debug\LeetCode.exe
