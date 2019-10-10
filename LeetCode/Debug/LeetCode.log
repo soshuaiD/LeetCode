@@ -1,4 +1,5 @@
-﻿  735. 行星碰撞.cpp
-D:\study\Code\LeetCode\LeetCode\735. 行星碰撞.cpp(16,20): warning C4018:  “<”: 有符号/无符号不匹配
-D:\study\Code\LeetCode\LeetCode\735. 行星碰撞.cpp(52,20): warning C4018:  “<”: 有符号/无符号不匹配
+﻿  880. 索引处的解码字符串.cpp
+D:\study\Code\LeetCode\LeetCode\880. 索引处的解码字符串.cpp(15,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\study\Code\LeetCode\LeetCode\880. 索引处的解码字符串.cpp(35,10): warning C4018:  “<=”: 有符号/无符号不匹配
+D:\study\Code\LeetCode\LeetCode\880. 索引处的解码字符串.cpp(43): warning C4715:  “decodeAtIndex”: 不是所有的控件路径都返回值
   LeetCode.vcxproj -> D:\study\Code\LeetCode\Debug\LeetCode.exe
