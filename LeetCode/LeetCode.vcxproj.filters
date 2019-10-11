@@ -186,6 +186,9 @@
     <ClCompile Include="880. 索引处的解码字符串.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="907. 子数组的最小值之和.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -287,6 +290,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="150.逆波兰表达式求值.txt">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="907.子数组的最小值之和txt">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>
