@@ -1,0 +1,10 @@
+模拟栈的进出
+遍历pushed[]
+	pushed[i]进栈push_stack；
+	当push_stack栈顶元素等于pop[p] 此时必须出栈，否则后面的元素压进来出大问题
+
+将push_stack中元素全部倒进pop_stack,对比pop_stack和poped[]
+
+关键是确定出栈的顺序
+		
+		

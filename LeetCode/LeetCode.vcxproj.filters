@@ -189,6 +189,9 @@
     <ClCompile Include="907. 子数组的最小值之和.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="946. 验证栈序列.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -285,6 +288,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="880.索引处的解码字符串.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="946.验证栈序列.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
