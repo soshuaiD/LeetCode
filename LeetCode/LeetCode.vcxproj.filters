@@ -316,7 +316,10 @@
     <None Include="150.逆波兰表达式求值.txt">
       <Filter>资源文件</Filter>
     </None>
-    <None Include="907.子数组的最小值之和txt">
+    <None Include="907.子数组的最小值之和.txt">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="1124.表先良好的最长时间段txt">
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>
