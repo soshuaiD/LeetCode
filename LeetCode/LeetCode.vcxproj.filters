@@ -192,6 +192,18 @@
     <ClCompile Include="946. 验证栈序列.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="1003. 检查替换后的词是否有效.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="1019. 链表中的下一个更大节点.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="1124. 表现良好的最长时间段.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="962.最大宽度坡.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -291,6 +303,12 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="946.验证栈序列.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="1019.链表中的下一个更大节点.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="962.最大宽度坡.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
