@@ -129,6 +129,7 @@
     <ClCompile Include="11.盛水最多的容器.cpp" />
     <ClCompile Include="1124. 表现良好的最长时间段.cpp" />
     <ClCompile Include="120. 三角形最小路径和.cpp" />
+    <ClCompile Include="1209. 删除字符串中的所有相邻重复项 II.cpp" />
     <ClCompile Include="130. 被围绕的区域.cpp" />
     <ClCompile Include="139.单词拆分.cpp" />
     <ClCompile Include="144.二叉树的前序遍历(stack).cpp" />
@@ -189,6 +190,7 @@
     <Text Include="1019.链表中的下一个更大节点.txt" />
     <Text Include="103. 二叉树的锯齿形层次遍历.txt" />
     <Text Include="120.最小路径和.txt" />
+    <Text Include="1209. 删除字符串中的所有相邻重复项 II.txt" />
     <Text Include="139.单词拆分.txt" />
     <Text Include="144.二叉树的前序遍历.txt" />
     <Text Include="145. 二叉树的后序遍历.txt" />

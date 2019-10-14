@@ -204,6 +204,9 @@
     <ClCompile Include="962.最大宽度坡.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="1209. 删除字符串中的所有相邻重复项 II.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -309,6 +312,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="962.最大宽度坡.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="1209. 删除字符串中的所有相邻重复项 II.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
