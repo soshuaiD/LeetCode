@@ -207,6 +207,9 @@
     <ClCompile Include="1209. 删除字符串中的所有相邻重复项 II.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
+    <ClCompile Include="1190. 反转每对括号间的子串.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
