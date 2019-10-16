@@ -10,6 +10,13 @@
 //using namespace std;
 //#pragma warning(disable:4996)
 //
+//struct TreeNode {
+//	int val;
+//	TreeNode* left;
+//	TreeNode* right;
+//	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+//	
+//};
 //
 //int main()
 //{

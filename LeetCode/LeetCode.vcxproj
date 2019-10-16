@@ -126,6 +126,7 @@
     <ClCompile Include="1003. 检查替换后的词是否有效.cpp" />
     <ClCompile Include="101. 对称二叉树.cpp" />
     <ClCompile Include="1019. 链表中的下一个更大节点.cpp" />
+    <ClCompile Include="102. 二叉树的层次遍历.cpp" />
     <ClCompile Include="103. 二叉树的锯齿形层次遍历.cpp" />
     <ClCompile Include="11.盛水最多的容器.cpp" />
     <ClCompile Include="1124. 表现良好的最长时间段.cpp" />
@@ -192,6 +193,7 @@
   <ItemGroup>
     <Text Include="101.对称二叉树.txt" />
     <Text Include="1019.链表中的下一个更大节点.txt" />
+    <Text Include="102.二叉树的层次遍历.txt" />
     <Text Include="103. 二叉树的锯齿形层次遍历.txt" />
     <Text Include="120.最小路径和.txt" />
     <Text Include="1209. 删除字符串中的所有相邻重复项 II.txt" />
