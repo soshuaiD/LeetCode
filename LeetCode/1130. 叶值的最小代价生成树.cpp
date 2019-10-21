@@ -10,28 +10,27 @@
 //using namespace std;
 //#pragma warning(disable:4996)
 //
-//int mctFromLeafValues(vector<int>& arr) {
-//	stack<int> s;
+//int mctrFomLeafValues(vector<int>& arr) {
 //	int ans = 0;
+//	stack<int> s;
+//	s.push(INT_MAX);
 //	for (int i = 0; i < arr.size(); i++)
 //	{
-//		while (s.size()>=2&&arr[i]>s.top())
+//		while (s.top()<arr[i])
 //		{
 //			int cur = s.top();
 //			s.pop();
-//			ans += min(arr[i], s.top()) *cur ;
-//			
+//			ans += arr[i] > s.top() ? s.top() * cur : arr[i] * cur;
 //		}
 //		s.push(arr[i]);
 //	}
-//	while (s.size()>1)
+//	while (s.size()>2)
 //	{
 //		int cur = s.top();
 //		s.pop();
-//		ans += cur * s.top();
+//		ans += s.top() * cur;
 //	}
 //	return ans;
-//
 //}
 //
 //int main()
