@@ -22,6 +22,12 @@
     <Filter Include="源文件\BFS">
       <UniqueIdentifier>{cebb9c29-7082-410f-b342-5a7625f090d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\queue">
+      <UniqueIdentifier>{8c18cdae-5af3-48b8-94fe-0c5a9d7130c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\greedy">
+      <UniqueIdentifier>{841f05bd-ee12-4c95-9ad4-42df0eb5d682}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -222,6 +228,9 @@
     <ClCompile Include="102. 二叉树的层次遍历.cpp">
       <Filter>源文件\BFS</Filter>
     </ClCompile>
+    <ClCompile Include="621. 任务调度器.cpp">
+      <Filter>源文件\greedy</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -336,6 +345,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="102.二叉树的层次遍历.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="621. 任务调度器.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

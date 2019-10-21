@@ -169,6 +169,7 @@
     <ClCompile Include="503. 下一个更大元素 II.cpp" />
     <ClCompile Include="53.最大子序和.cpp" />
     <ClCompile Include="62.不同路径.cpp" />
+    <ClCompile Include="621. 任务调度器.cpp" />
     <ClCompile Include="63.不同路径II.cpp" />
     <ClCompile Include="64.最小路径和.cpp" />
     <ClCompile Include="682. 棒球比赛.cpp" />
@@ -229,6 +230,7 @@
     <Text Include="946.验证栈序列.txt" />
     <Text Include="96.不同的二叉搜索树.txt" />
     <Text Include="962.最大宽度坡.txt" />
+    <Text Include="621. 任务调度器.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="1124.表先良好的最长时间段txt" />
