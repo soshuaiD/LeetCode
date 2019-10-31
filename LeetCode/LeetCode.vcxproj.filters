@@ -237,6 +237,12 @@
     <ClCompile Include="107. 二叉树的层次遍历 II.cpp">
       <Filter>源文件\BFS</Filter>
     </ClCompile>
+    <ClCompile Include="127. 单词接龙.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="199. 二叉树的右视图.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -357,6 +363,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="1130. 叶值的最小代价生成树.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="199.二叉树的右视图.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

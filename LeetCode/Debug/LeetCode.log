@@ -1,5 +1,5 @@
-﻿  111. 二叉树的最小深度.cpp
-  621. 任务调度器.cpp
-  正在生成代码...
-D:\study\Code\LeetCode\LeetCode\111. 二叉树的最小深度.cpp(47): warning C4715:  “minDepth”: 不是所有的控件路径都返回值
+﻿  127. 单词接龙.cpp
+D:\study\Code\LeetCode\LeetCode\127. 单词接龙.cpp(165,23): warning C4018:  “<”: 有符号/无符号不匹配
+D:\study\Code\LeetCode\LeetCode\127. 单词接龙.cpp(201,23): warning C4018:  “<”: 有符号/无符号不匹配
+D:\study\Code\LeetCode\LeetCode\127. 单词接龙.cpp(223): warning C4715:  “ladderLength”: 不是所有的控件路径都返回值
   LeetCode.vcxproj -> D:\study\Code\LeetCode\Debug\LeetCode.exe
