@@ -243,6 +243,12 @@
     <ClCompile Include="199. 二叉树的右视图.cpp">
       <Filter>源文件\BFS</Filter>
     </ClCompile>
+    <ClCompile Include="200. 岛屿数量.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="207. 课程表.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">

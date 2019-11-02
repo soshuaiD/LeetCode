@@ -152,6 +152,8 @@
     <ClCompile Include="198.打家劫舍.cpp" />
     <ClCompile Include="199. 二叉树的右视图.cpp" />
     <ClCompile Include="20.有效的括号.cpp" />
+    <ClCompile Include="200. 岛屿数量.cpp" />
+    <ClCompile Include="207. 课程表.cpp" />
     <ClCompile Include="213. 打家劫舍 II.cpp" />
     <ClCompile Include="221.最大正方形.cpp" />
     <ClCompile Include="225.用队列实现栈.cpp" />
