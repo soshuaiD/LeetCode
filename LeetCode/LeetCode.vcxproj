@@ -168,6 +168,7 @@
     <ClCompile Include="303. 区域和检索 - 数组不可变.cpp" />
     <ClCompile Include="304. 二维区域和检索 - 矩阵不可变.cpp" />
     <ClCompile Include="309. 最佳买卖股票时机含冷冻期.cpp" />
+    <ClCompile Include="310. 最小高度树.cpp" />
     <ClCompile Include="331. 验证二叉树的前序序列化.cpp" />
     <ClCompile Include="38.报数.cpp" />
     <ClCompile Include="394. 字符串解码.cpp" />
@@ -221,6 +222,7 @@
     <Text Include="303. 区域和检索 - 数组不可变.txt" />
     <Text Include="304. 二维区域和检索 - 矩阵不可变.txt" />
     <Text Include="309. 最佳买卖股票时机含冷冻期.txt" />
+    <Text Include="310. 最小高度树.txt" />
     <Text Include="331.验证二叉树的前序序列化.txt" />
     <Text Include="394.字符串解码.txt" />
     <Text Include="402.移掉K位数字.txt" />
