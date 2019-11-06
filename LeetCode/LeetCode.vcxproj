@@ -173,6 +173,7 @@
     <ClCompile Include="38.报数.cpp" />
     <ClCompile Include="394. 字符串解码.cpp" />
     <ClCompile Include="402. 移掉K位数字.cpp" />
+    <ClCompile Include="417. 太平洋大西洋水流问题.cpp" />
     <ClCompile Include="456.132模式.cpp" />
     <ClCompile Include="503. 下一个更大元素 II.cpp" />
     <ClCompile Include="53.最大子序和.cpp" />
@@ -226,6 +227,7 @@
     <Text Include="331.验证二叉树的前序序列化.txt" />
     <Text Include="394.字符串解码.txt" />
     <Text Include="402.移掉K位数字.txt" />
+    <Text Include="417. 太平洋大西洋水流问题.txt" />
     <Text Include="456.132模式.txt" />
     <Text Include="496. 下一个更大元素 I.cpp" />
     <Text Include="496.下一个更大元素I.txt" />

@@ -255,6 +255,9 @@
     <ClCompile Include="310. 最小高度树.cpp">
       <Filter>源文件\BFS</Filter>
     </ClCompile>
+    <ClCompile Include="417. 太平洋大西洋水流问题.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -381,6 +384,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="310. 最小高度树.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="417. 太平洋大西洋水流问题.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
