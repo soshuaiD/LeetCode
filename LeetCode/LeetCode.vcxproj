@@ -179,6 +179,8 @@
     <ClCompile Include="513. 找树左下角的值.cpp" />
     <ClCompile Include="515. 在每个树行中找最大值.cpp" />
     <ClCompile Include="53.最大子序和.cpp" />
+    <ClCompile Include="542. 01 矩阵.cpp" />
+    <ClCompile Include="542.01矩阵.txt" />
     <ClCompile Include="62.不同路径.cpp" />
     <ClCompile Include="621. 任务调度器.cpp" />
     <ClCompile Include="63.不同路径II.cpp" />
