@@ -270,6 +270,9 @@
     <ClCompile Include="542.01矩阵.txt">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="743. 网络延迟时间.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
@@ -399,6 +402,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="417. 太平洋大西洋水流问题.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="743.网络延迟时间.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>

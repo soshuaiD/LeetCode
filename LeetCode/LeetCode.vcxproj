@@ -190,6 +190,7 @@
     <ClCompile Include="71. 简化路径.cpp" />
     <ClCompile Include="735. 行星碰撞.cpp" />
     <ClCompile Include="739. 每日温度.cpp" />
+    <ClCompile Include="743. 网络延迟时间.cpp" />
     <ClCompile Include="880. 索引处的解码字符串.cpp" />
     <ClCompile Include="907. 子数组的最小值之和.cpp" />
     <ClCompile Include="91.解码方法.cpp" />
@@ -242,6 +243,7 @@
     <Text Include="64.最小路径和.txt" />
     <Text Include="71.简化路径.txt" />
     <Text Include="739.每日温度.txt" />
+    <Text Include="743.网络延迟时间.txt" />
     <Text Include="880.索引处的解码字符串.txt" />
     <Text Include="91.解码方法.txt" />
     <Text Include="946.验证栈序列.txt" />
