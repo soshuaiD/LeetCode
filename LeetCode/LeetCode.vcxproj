@@ -180,7 +180,6 @@
     <ClCompile Include="515. 在每个树行中找最大值.cpp" />
     <ClCompile Include="53.最大子序和.cpp" />
     <ClCompile Include="542. 01 矩阵.cpp" />
-    <ClCompile Include="542.01矩阵.txt" />
     <ClCompile Include="62.不同路径.cpp" />
     <ClCompile Include="621. 任务调度器.cpp" />
     <ClCompile Include="63.不同路径II.cpp" />
@@ -191,6 +190,7 @@
     <ClCompile Include="735. 行星碰撞.cpp" />
     <ClCompile Include="739. 每日温度.cpp" />
     <ClCompile Include="743. 网络延迟时间.cpp" />
+    <ClCompile Include="752. 打开转盘锁.cpp" />
     <ClCompile Include="880. 索引处的解码字符串.cpp" />
     <ClCompile Include="907. 子数组的最小值之和.cpp" />
     <ClCompile Include="91.解码方法.cpp" />
@@ -238,6 +238,7 @@
     <Text Include="496.下一个更大元素I.txt" />
     <Text Include="503.下一个更大的元素II.txt" />
     <Text Include="53.最大子段和.txt" />
+    <Text Include="542.01矩阵.txt" />
     <Text Include="62.不同路径.txt" />
     <Text Include="63不同路径II.txt" />
     <Text Include="64.最小路径和.txt" />

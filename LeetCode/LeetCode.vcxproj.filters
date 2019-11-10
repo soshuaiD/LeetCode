@@ -267,10 +267,10 @@
     <ClCompile Include="542. 01 矩阵.cpp">
       <Filter>源文件\BFS</Filter>
     </ClCompile>
-    <ClCompile Include="542.01矩阵.txt">
-      <Filter>资源文件</Filter>
-    </ClCompile>
     <ClCompile Include="743. 网络延迟时间.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="752. 打开转盘锁.cpp">
       <Filter>源文件\BFS</Filter>
     </ClCompile>
   </ItemGroup>
@@ -405,6 +405,9 @@
       <Filter>资源文件</Filter>
     </Text>
     <Text Include="743.网络延迟时间.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="542.01矩阵.txt">
       <Filter>资源文件</Filter>
     </Text>
   </ItemGroup>
