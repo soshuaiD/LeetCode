@@ -273,6 +273,12 @@
     <ClCompile Include="752. 打开转盘锁.cpp">
       <Filter>源文件\BFS</Filter>
     </ClCompile>
+    <ClCompile Include="429. N叉树的层序遍历.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="559. N叉树的最大深度.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
