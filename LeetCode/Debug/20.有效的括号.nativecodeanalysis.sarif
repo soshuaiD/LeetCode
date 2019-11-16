@@ -12,65 +12,17 @@
       },
       "invocations": [
         {
-          "commandLine": "D:\\Applications\\VS\\VC\\Tools\\MSVC\\14.22.27905\\bin\\HostX86\\x86\\c1xx.dll -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x006420A0 -il C:\\Users\\94778\\AppData\\Local\\Temp\\_CL_bca85de1ast -typedil -f 20.有效的括号.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -ZB64 -D_INTEGRAL_MAX_BITS=64 -Gs -pc \\:/ -D_MSC_VER=1922 -D_MSC_FULL_VER=192227905 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -D_MBCS -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -permissive- -Zc:wchar_t -Zc:forScope -FoDebug\\20.有效的括号.obj -FdDebug\\vc142.pdb -Gd -analyze:quiet -analyze:plugin D:\\Applications\\VS\\VC\\Tools\\MSVC\\14.22.27905\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -analyze:ruleset D:\\Applications\\VS\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:projectdirectory D:\\study\\Code\\LeetCode\\LeetCode -analyze:rulesetdirectory ;D:\\Applications\\VS\\Team Tools\\Static Analysis Tools\\\\Rule Sets -I D:\\Applications\\VS\\VC\\Tools\\MSVC\\14.22.27905\\include -I D:\\Applications\\VS\\VC\\Tools\\MSVC\\14.22.27905\\atlmfc\\include -I D:\\Applications\\VS\\VC\\Auxiliary\\VS\\include -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\um -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\shared -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\winrt -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.7.2\\Include\\um"
+          "commandLine": "D:\\Applications\\VS\\VC\\Tools\\MSVC\\14.22.27905\\bin\\HostX86\\x86\\c1xx.dll -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x00C820A0 -il C:\\Users\\94778\\AppData\\Local\\Temp\\_CL_a6fb8c2bast -typedil -f 20.有效的括号.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -ZB64 -D_INTEGRAL_MAX_BITS=64 -Gs -pc \\:/ -D_MSC_VER=1922 -D_MSC_FULL_VER=192227905 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -D_MBCS -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -permissive- -Zc:wchar_t -Zc:forScope -FoDebug\\20.有效的括号.obj -FdDebug\\vc142.pdb -Gd -analyze:quiet -analyze:plugin D:\\Applications\\VS\\VC\\Tools\\MSVC\\14.22.27905\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -analyze:ruleset D:\\Applications\\VS\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:projectdirectory D:\\study\\Code\\LeetCode\\LeetCode -analyze:rulesetdirectory ;D:\\Applications\\VS\\Team Tools\\Static Analysis Tools\\\\Rule Sets -I D:\\Applications\\VS\\VC\\Tools\\MSVC\\14.22.27905\\include -I D:\\Applications\\VS\\VC\\Tools\\MSVC\\14.22.27905\\atlmfc\\include -I D:\\Applications\\VS\\VC\\Auxiliary\\VS\\include -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\um -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\shared -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\winrt -I D:\\Windows Kits\\10\\Include\\10.0.17763.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.7.2\\Include\\um"
         }
       ],
       "files": {
+        "file:///d:/study/code/leetcode/leetcode/145. 二叉树的后序遍历.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
         "file:///d:/study/code/leetcode/leetcode/150. 逆波兰表达式求值.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/152.乘积最大子序列.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/173. 二叉搜索树迭代器.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/198.打家劫舍.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/27. 移除元素.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/155.最小栈.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/139.单词拆分.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/19.删除链表的倒数第n个节点.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/18.四数之和.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/16.最接近的三数之和.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
@@ -88,18 +40,6 @@
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/145. 二叉树的后序遍历.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/503. 下一个更大元素 ii.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
         "file:///d:/study/code/leetcode/leetcode/144.二叉树的前序遍历(stack).cpp": {
           "roles": [
             "analysisTarget",
@@ -112,67 +52,25 @@
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/120. 三角形最小路径和.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/1130. 叶值的最小代价生成树.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/304. 二维区域和检索 - 矩阵不可变.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/139.单词拆分.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/1124. 表现良好的最长时间段.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/1209. 删除字符串中的所有相邻重复项 ii.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/103. 二叉树的锯齿形层次遍历.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/394. 字符串解码.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/232. 用栈实现队列.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/1019. 链表中的下一个更大节点.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/456.132模式.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/1003. 检查替换后的词是否有效.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/303. 区域和检索 - 数组不可变.cpp": {
-          "roles": [
-            "analysisTarget",
-            "resultFile"
-          ]
-        },
-        "file:///d:/study/code/leetcode/leetcode/402. 移掉k位数字.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/127. 单词接龙.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
@@ -184,37 +82,91 @@
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/38.报数.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/120. 三角形最小路径和.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/331. 验证二叉树的前序序列化.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/210.课程表ii.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/309. 最佳买卖股票时机含冷冻期.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/1190. 反转每对括号间的子串.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/300. 最长上升子序列.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/1019. 链表中的下一个更大节点.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/28. 实现 strstr().cpp": {
+        "file:///d:/study/code/leetcode/leetcode/1124. 表现良好的最长时间段.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/111. 二叉树的最小深度.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/225.用队列实现栈.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/107. 二叉树的层次遍历 ii.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/103. 二叉树的锯齿形层次遍历.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/232. 用栈实现队列.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/102. 二叉树的层次遍历.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/101. 对称二叉树.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/1003. 检查替换后的词是否有效.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
           ]
         },
         "file:///d:/study/code/leetcode/leetcode/279.完全平方数.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/27. 移除元素.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
@@ -232,13 +184,19 @@
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/225.用队列实现栈.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/213. 打家劫舍 ii.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
           ]
         },
-        "file:///d:/study/code/leetcode/leetcode/213. 打家劫舍 ii.cpp": {
+        "file:///d:/study/code/leetcode/leetcode/207. 课程表.cpp": {
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        "file:///d:/study/code/leetcode/leetcode/200. 岛屿数量.cpp": {
           "roles": [
             "analysisTarget",
             "resultFile"
