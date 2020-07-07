@@ -1,4 +1,4 @@
 .vs
-/Debug
+/Debug/
 .gitignore
-/Leetcode/Debug
+/Leetcode/Debug/
