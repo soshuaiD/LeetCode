@@ -1,25 +1,26 @@
-//#include <iostream>
-//#include <string>
-//#include <cmath>
-//#include <stack>
-//#include <queue>
-//#include <map>
-//#include <vector>
-//#include <cstdio>
-//#include <set>
-//#include <unordered_set>
-//using namespace std;
-//#pragma warning(disable:4996)
-//
-////struct TreeNode {
-////	int val;
-////	TreeNode* left;
-////	TreeNode* right;
-////	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-////	
-////};
-//
-//int main()
-//{
-//	system("pause"); 
-//}
+#include <algorithm>
+#include <cassert>
+#include <deque>
+#include <functional>
+#include <iostream>
+#include <iterator>
+#include <limits>
+#include <list>
+#include <map>
+#include <math.h>
+#include <numeric>
+#include <queue>
+#include <sstream>
+#include <stack>
+#include <string>
+#include <unordered_map>
+#include <unordered_set>
+#include <utility>
+#include <vector>
+
+using namespace std;
+
+
+
+int main() {
+}

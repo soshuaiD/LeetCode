@@ -28,6 +28,9 @@
     <Filter Include="源文件\greedy">
       <UniqueIdentifier>{841f05bd-ee12-4c95-9ad4-42df0eb5d682}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\DFS">
+      <UniqueIdentifier>{9bccc6d1-67e8-46f7-890b-5efdab30e86e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -281,6 +284,15 @@
     </ClCompile>
     <ClCompile Include="785.判断二分图.cpp">
       <Filter>源文件\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="787. K 站中转内最便宜的航班.cpp">
+      <Filter>源文件\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="HuffmanTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17. 电话号码的字母组合.cpp">
+      <Filter>源文件\DFS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
