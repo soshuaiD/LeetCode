@@ -294,6 +294,9 @@
     <ClCompile Include="17. 电话号码的字母组合.cpp">
       <Filter>源文件\DFS</Filter>
     </ClCompile>
+    <ClCompile Include="22. 括号生成.cpp">
+      <Filter>源文件\DFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">

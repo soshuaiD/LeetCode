@@ -157,6 +157,7 @@
     <ClCompile Include="207. 课程表.cpp" />
     <ClCompile Include="210.课程表II.cpp" />
     <ClCompile Include="213. 打家劫舍 II.cpp" />
+    <ClCompile Include="22. 括号生成.cpp" />
     <ClCompile Include="221.最大正方形.cpp" />
     <ClCompile Include="225.用队列实现栈.cpp" />
     <ClCompile Include="232. 用栈实现队列.cpp" />
