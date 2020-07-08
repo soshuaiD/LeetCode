@@ -1,7 +1,11 @@
 # LeetCode
 ##### 11. 盛最多水的容器
   双指针，指向收尾，收缩
+  
+  
   收缩时考虑短板
+  
+  
   res = height[i] < height[j] ? 
                 Math.max(res, (j - i) * height[i++]): 
                 Math.max(res, (j - i) * height[j--]); 
