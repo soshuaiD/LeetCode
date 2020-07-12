@@ -28,5 +28,6 @@
   动态规划，完全背包
   
   dp[i][j]表示用前i个硬币，换总价值为j的所有结果，注意，dp[i][0]初始化为1
+  
   dp[i][j] = dp[i-1][j],if j<value[i]
              dp[i-1][j]+dp[i][j-value[i]],if j>=value[i] (不选或选)
