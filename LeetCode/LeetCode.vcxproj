@@ -196,6 +196,7 @@
     <ClCompile Include="739. 每日温度.cpp" />
     <ClCompile Include="743. 网络延迟时间.cpp" />
     <ClCompile Include="752. 打开转盘锁.cpp" />
+    <ClCompile Include="1333. 餐厅过滤器.cpp" />
     <ClCompile Include="785.判断二分图.cpp" />
     <ClCompile Include="787. K 站中转内最便宜的航班.cpp" />
     <ClCompile Include="880. 索引处的解码字符串.cpp" />
