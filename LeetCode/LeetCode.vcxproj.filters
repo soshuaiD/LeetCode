@@ -312,6 +312,9 @@
     <ClCompile Include="1451. 重新排列句子中的单词.cpp">
       <Filter>源文件\sort</Filter>
     </ClCompile>
+    <ClCompile Include="148. 排序链表.cpp">
+      <Filter>源文件\sort</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">

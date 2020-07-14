@@ -143,6 +143,7 @@
     <ClCompile Include="144.二叉树的前序遍历(stack).cpp" />
     <ClCompile Include="145. 二叉树的后序遍历.cpp" />
     <ClCompile Include="1451. 重新排列句子中的单词.cpp" />
+    <ClCompile Include="148. 排序链表.cpp" />
     <ClCompile Include="15.三数之和.cpp" />
     <ClCompile Include="150. 逆波兰表达式求值.cpp" />
     <ClCompile Include="152.乘积最大子序列.cpp" />
