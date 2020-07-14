@@ -20,54 +20,34 @@
 
 using namespace std;
 
-struct ListNode {
-    int val;
-    ListNode* next;
-    ListNode(int x) : val(x), next(NULL) {}
-};
+int cmp(const int& a, const int& b) {
+	return a > b;
+}
 
-ListNode* sortList(ListNode* head) {
-    if (!head || !head->next)
-    {
-        return head;
-    }
+void wiggleSort(vector<int>& nums) {
+	sort(nums.begin(), nums.end(), cmp);
 
-    ListNode* fast = head->next, * slow = head;
-    while (fast && fast->next)
-    {
-        fast = fast->next->next;
-        slow = slow->next;
-    }
-
-    ListNode* tmp = slow->next;
-    slow->next = NULL;
-
-    ListNode* left = sortList(head);
-    ListNode* right = sortList(tmp);
-
-    ListNode* p = new ListNode(0), * h = p;
-    while (left && right)
-    {
-        if (left->val > right->val)
-        {
-            p->next = right;
-            right = right->next;
-        }
-        else {
-            p->next = left;
-            left = left->next;
-        }
-        p = p->next;
-    }
-    p->next = left ? left : right;
-    return h->next;
+	if (nums.size() % 2)
+	{
+		for (int i = 0; i < (nums.size()+1) / 2; i++) {
+			nums.insert(nums.begin() + 2 * i, nums[nums.size() / 2 + i]);
+			nums.erase(nums.begin() + (nums.size()-1) / 2 + i+1);
+		}
+	}
+	else {
+		for (int i = 0; i < nums.size() / 2; i++) {
+			nums.insert(nums.begin() + 2 * i , nums[nums.size() / 2 + i]);
+			nums.erase(nums.begin() + (nums.size()-1) / 2 + i+1);
+		}
+	}
 }
 
 int main() {
-    ListNode* p1 = new ListNode(3);
-    ListNode* p2 = new ListNode(2);
-    p1->next = p2;
-    ListNode* p3 = new ListNode(1);
-    p2->next = p3;
-    sortList(p1);
+	vector<int> nums = {
+		1,1,2,1,2,2,1};
+	wiggleSort(nums);
+	for (int i = 0; i < nums.size(); i++)
+	{
+		cout << nums[i] << " ";
+	}
 }

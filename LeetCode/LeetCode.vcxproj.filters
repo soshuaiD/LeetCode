@@ -315,6 +315,9 @@
     <ClCompile Include="148. 排序链表.cpp">
       <Filter>源文件\sort</Filter>
     </ClCompile>
+    <ClCompile Include="324. 摆动排序 II.cpp">
+      <Filter>源文件\sort</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">

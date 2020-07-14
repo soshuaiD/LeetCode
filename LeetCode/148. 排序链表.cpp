@@ -1,39 +1,40 @@
-#include <algorithm>
-#include <cassert>
-#include <deque>
-#include <functional>
-#include <iostream>
-#include <iterator>
-#include <limits>
-#include <list>
-#include <map>
-#include <math.h>
-#include <numeric>
-#include <queue>
-#include <sstream>
-#include <stack>
-#include <string>
-#include <unordered_map>
-#include <unordered_set>
-#include <utility>
-#include <vector>
-
-using namespace std;
-
+//#include <algorithm>
+//#include <cassert>
+//#include <deque>
+//#include <functional>
+//#include <iostream>
+//#include <iterator>
+//#include <limits>
+//#include <list>
+//#include <map>
+//#include <math.h>
+//#include <numeric>
+//#include <queue>
+//#include <sstream>
+//#include <stack>
+//#include <string>
+//#include <unordered_map>
+//#include <unordered_set>
+//#include <utility>
+//#include <vector>
+//
+//using namespace std;
+//
+//
 //struct ListNode {
 //    int val;
 //    ListNode* next;
 //    ListNode(int x) : val(x), next(NULL) {}
 //};
-// 
+//
 //ListNode* sortList(ListNode* head) {
-//    if (!head||!head->next)
+//    if (!head || !head->next)
 //    {
 //        return head;
 //    }
 //
-//    ListNode* fast = head, * slow = head;
-//    while (fast&&fast->next)
+//    ListNode* fast = head->next, * slow = head;
+//    while (fast && fast->next)
 //    {
 //        fast = fast->next->next;
 //        slow = slow->next;
@@ -43,12 +44,12 @@ using namespace std;
 //    slow->next = NULL;
 //
 //    ListNode* left = sortList(head);
-//    ListNode* right = sortList(slow);
+//    ListNode* right = sortList(tmp);
 //
 //    ListNode* p = new ListNode(0), * h = p;
-//    while (left&&right)
+//    while (left && right)
 //    {
-//        if (left->val>right->val)
+//        if (left->val > right->val)
 //        {
 //            p->next = right;
 //            right = right->next;
@@ -62,3 +63,10 @@ using namespace std;
 //    p->next = left ? left : right;
 //    return h->next;
 //}
+//
+//ListNode* p1 = new ListNode(3);
+//ListNode* p2 = new ListNode(2);
+//p1->next = p2;
+//ListNode* p3 = new ListNode(1);
+//p2->next = p3;
+//sortList(p1);
