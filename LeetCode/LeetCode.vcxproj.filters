@@ -34,6 +34,9 @@
     <Filter Include="源文件\sort">
       <UniqueIdentifier>{6d87a136-3acc-4406-b8af-43759e036512}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\String">
+      <UniqueIdentifier>{b92426e1-58e2-4a10-8384-dc2760e5de97}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -321,8 +324,11 @@
     <ClCompile Include="面试题 16.26. 计算器.cpp">
       <Filter>源文件\stack</Filter>
     </ClCompile>
-    <ClCompile Include="String.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="1177. 构建回文串检测.cpp">
+      <Filter>源文件\String</Filter>
+    </ClCompile>
+    <ClCompile Include="151. 翻转字符串里的单词.cpp">
+      <Filter>源文件\String</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

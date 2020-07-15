@@ -146,6 +146,7 @@
     <ClCompile Include="148. 排序链表.cpp" />
     <ClCompile Include="15.三数之和.cpp" />
     <ClCompile Include="150. 逆波兰表达式求值.cpp" />
+    <ClCompile Include="151. 翻转字符串里的单词.cpp" />
     <ClCompile Include="152.乘积最大子序列.cpp" />
     <ClCompile Include="155.最小栈.cpp" />
     <ClCompile Include="16.最接近的三数之和.cpp" />
@@ -214,7 +215,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Palindrome Number.cpp" />
     <ClCompile Include="String to Integer (atoi).cpp" />
-    <ClCompile Include="String.cpp" />
+    <ClCompile Include="1177. 构建回文串检测.cpp" />
     <ClCompile Include="合并两个有序数组.cpp" />
     <ClCompile Include="合并两个有序链表.cpp" />
     <ClCompile Include="面试题 08.11. 硬币.cpp" />
