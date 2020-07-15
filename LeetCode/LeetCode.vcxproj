@@ -214,6 +214,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Palindrome Number.cpp" />
     <ClCompile Include="String to Integer (atoi).cpp" />
+    <ClCompile Include="String.cpp" />
     <ClCompile Include="合并两个有序数组.cpp" />
     <ClCompile Include="合并两个有序链表.cpp" />
     <ClCompile Include="面试题 08.11. 硬币.cpp" />

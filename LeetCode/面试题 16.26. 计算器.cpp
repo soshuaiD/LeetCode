@@ -105,6 +105,6 @@ int calculate(string s) {
 	return opr.top();
 }
 
-int main() {
-	cout << calculate("1*2-3/4+5*6-7*8+9/10") << endl;
-}
+//int main() {
+//	cout << calculate("1*2-3/4+5*6-7*8+9/10") << endl;
+//}
