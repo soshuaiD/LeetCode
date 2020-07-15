@@ -318,6 +318,9 @@
     <ClCompile Include="324. 摆动排序 II.cpp">
       <Filter>源文件\sort</Filter>
     </ClCompile>
+    <ClCompile Include="面试题 16.26. 计算器.cpp">
+      <Filter>源文件\stack</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
