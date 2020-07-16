@@ -37,6 +37,9 @@
     <Filter Include="源文件\String">
       <UniqueIdentifier>{b92426e1-58e2-4a10-8384-dc2760e5de97}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Tree">
+      <UniqueIdentifier>{3e8dc317-a9ea-4a4b-8c30-f8b7623db830}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -329,6 +332,9 @@
     </ClCompile>
     <ClCompile Include="151. 翻转字符串里的单词.cpp">
       <Filter>源文件\String</Filter>
+    </ClCompile>
+    <ClCompile Include="951. 翻转等价二叉树.cpp">
+      <Filter>源文件\Tree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
