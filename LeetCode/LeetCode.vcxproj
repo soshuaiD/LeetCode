@@ -139,6 +139,7 @@
     <ClCompile Include="1209. 删除字符串中的所有相邻重复项 II.cpp" />
     <ClCompile Include="127. 单词接龙.cpp" />
     <ClCompile Include="130. 被围绕的区域.cpp" />
+    <ClCompile Include="1367. 二叉树中的列表.cpp" />
     <ClCompile Include="139.单词拆分.cpp" />
     <ClCompile Include="144.二叉树的前序遍历(stack).cpp" />
     <ClCompile Include="145. 二叉树的后序遍历.cpp" />
