@@ -194,6 +194,7 @@
     <ClCompile Include="621. 任务调度器.cpp" />
     <ClCompile Include="63.不同路径II.cpp" />
     <ClCompile Include="64.最小路径和.cpp" />
+    <ClCompile Include="652. 寻找重复的子树.cpp" />
     <ClCompile Include="682. 棒球比赛.cpp" />
     <ClCompile Include="70.爬楼梯.cpp" />
     <ClCompile Include="71. 简化路径.cpp" />
