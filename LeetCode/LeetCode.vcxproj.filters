@@ -339,6 +339,9 @@
     <ClCompile Include="1367. 二叉树中的列表.cpp">
       <Filter>源文件\Tree</Filter>
     </ClCompile>
+    <ClCompile Include="894. 所有可能的满二叉树.cpp">
+      <Filter>源文件\Tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
