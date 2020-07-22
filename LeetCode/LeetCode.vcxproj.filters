@@ -345,6 +345,12 @@
     <ClCompile Include="652. 寻找重复的子树.cpp">
       <Filter>源文件\Tree</Filter>
     </ClCompile>
+    <ClCompile Include="1315. 祖父节点值为偶数的节点和.cpp">
+      <Filter>源文件\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="654. 最大二叉树.cpp">
+      <Filter>源文件\Tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">

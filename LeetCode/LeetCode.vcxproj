@@ -139,6 +139,7 @@
     <ClCompile Include="1209. 删除字符串中的所有相邻重复项 II.cpp" />
     <ClCompile Include="127. 单词接龙.cpp" />
     <ClCompile Include="130. 被围绕的区域.cpp" />
+    <ClCompile Include="1315. 祖父节点值为偶数的节点和.cpp" />
     <ClCompile Include="1367. 二叉树中的列表.cpp" />
     <ClCompile Include="139.单词拆分.cpp" />
     <ClCompile Include="144.二叉树的前序遍历(stack).cpp" />
@@ -195,6 +196,7 @@
     <ClCompile Include="63.不同路径II.cpp" />
     <ClCompile Include="64.最小路径和.cpp" />
     <ClCompile Include="652. 寻找重复的子树.cpp" />
+    <ClCompile Include="654. 最大二叉树.cpp" />
     <ClCompile Include="682. 棒球比赛.cpp" />
     <ClCompile Include="70.爬楼梯.cpp" />
     <ClCompile Include="71. 简化路径.cpp" />
