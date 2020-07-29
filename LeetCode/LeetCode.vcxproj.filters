@@ -357,6 +357,9 @@
     <ClCompile Include="1110. 删点成林.cpp">
       <Filter>源文件\Tree</Filter>
     </ClCompile>
+    <ClCompile Include="1026. 节点与其祖先之间的最大差值.cpp">
+      <Filter>源文件\Tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
