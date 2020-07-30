@@ -168,6 +168,7 @@
     <ClCompile Include="213. 打家劫舍 II.cpp" />
     <ClCompile Include="22. 括号生成.cpp" />
     <ClCompile Include="221.最大正方形.cpp" />
+    <ClCompile Include="222. 完全二叉树的节点个数.cpp" />
     <ClCompile Include="225.用队列实现栈.cpp" />
     <ClCompile Include="232. 用栈实现队列.cpp" />
     <ClCompile Include="26. 删除排序数组中的重复项.cpp" />
