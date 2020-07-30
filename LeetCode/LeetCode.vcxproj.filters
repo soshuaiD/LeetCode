@@ -363,6 +363,9 @@
     <ClCompile Include="222. 完全二叉树的节点个数.cpp">
       <Filter>源文件\Tree</Filter>
     </ClCompile>
+    <ClCompile Include="剑指 Offer 26. 树的子结构.cpp">
+      <Filter>源文件\Tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
