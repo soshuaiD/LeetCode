@@ -211,6 +211,7 @@
     <ClCompile Include="1333. 餐厅过滤器.cpp" />
     <ClCompile Include="785.判断二分图.cpp" />
     <ClCompile Include="787. K 站中转内最便宜的航班.cpp" />
+    <ClCompile Include="863. 二叉树中所有距离为 K 的结点.cpp" />
     <ClCompile Include="880. 索引处的解码字符串.cpp" />
     <ClCompile Include="894. 所有可能的满二叉树.cpp" />
     <ClCompile Include="907. 子数组的最小值之和.cpp" />

@@ -366,6 +366,9 @@
     <ClCompile Include="剑指 Offer 26. 树的子结构.cpp">
       <Filter>源文件\Tree</Filter>
     </ClCompile>
+    <ClCompile Include="863. 二叉树中所有距离为 K 的结点.cpp">
+      <Filter>源文件\Tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
