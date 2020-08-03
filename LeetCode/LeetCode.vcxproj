@@ -230,6 +230,7 @@
     <ClCompile Include="剑指 Offer 26. 树的子结构.cpp" />
     <ClCompile Include="合并两个有序数组.cpp" />
     <ClCompile Include="合并两个有序链表.cpp" />
+    <ClCompile Include="面试题 04.08. 首个共同祖先.cpp" />
     <ClCompile Include="面试题 08.11. 硬币.cpp" />
     <ClCompile Include="面试题 16.26. 计算器.cpp" />
   </ItemGroup>
