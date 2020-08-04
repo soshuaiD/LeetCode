@@ -372,6 +372,9 @@
     <ClCompile Include="面试题 04.08. 首个共同祖先.cpp">
       <Filter>源文件\Tree</Filter>
     </ClCompile>
+    <ClCompile Include="865. 具有所有最深结点的最小子树.cpp">
+      <Filter>源文件\Tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="53.最大子段和.txt">
