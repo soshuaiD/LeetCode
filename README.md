@@ -171,5 +171,9 @@
   最终结果保存为全局变量
   * 方法二：DFS，搜索并保存两个变量的路径（可以map也可以栈）
   
-  
+---
+#####   437. 路径总和 III
+  双重DFS。
+  不可以在同一个函数里双重。原因如下：sum给root->left一个sum和一个sum-root->val，这个时候root->left会给root->left->left两个sum，因此存在很多重复的部分
+
   
