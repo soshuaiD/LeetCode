@@ -176,4 +176,8 @@
   双重DFS。
   不可以在同一个函数里双重。原因如下：sum给root->left一个sum和一个sum-root->val，这个时候root->left会给root->left->left两个sum，因此存在很多重复的部分
 
-  
+---
+##### 501. 二叉搜索树中的众数
+此题与98. 验证二叉搜索树类似，运用二叉搜索树的性质，即中序遍历为递增序列。
+记录前面的结点的值，将currentTimes和maxTimes进行比较，并更新结果
+暴力法：直接map
