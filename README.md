@@ -229,11 +229,30 @@
 滑动窗口
 =================
 [总结](https://github.com/wyl6/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md)
+
+·int left = 0, right = 0;
+
+while (right < s.size()) {
+    window.add(s[right]);
+    right++;
+    
+    while (valid) {
+        window.remove(s[left]);
+        left++;
+    }
+}·
 ---
 ##### 3. 无重复字符的最长子串
-    记录已经读入的非重复字符，移动后面的指针，指针搜索到下个重复字符，更新前面的指针，随时更新最大宽度
-    
-    
+    window记录已经读入的非重复字符，移动right，指针搜索到下个重复字符，更新前面的指针，随时更新最大宽度
+---
+##### 76. 最小覆盖子串
+    window记录left和right中间的map,与needs进行比较，match后记录长度，移动left直至不匹配。
+---
+##### 438. 找到字符串中所有字母异位词
+    window记录left和right中间的map,与needs进行比较，match后验证长度是否匹配，移动left直至不匹配。
+---
+##### 424. 替换后的最长重复字符
+    map记录left和right中间的词频，最大词频+k后与窗口宽度比较，若更窄，则窗口中无法用此词填满，移动left。窗口的大小不减，所求结果为窗口大小
     
     
     
