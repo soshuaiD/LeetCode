@@ -230,7 +230,7 @@
 =================
 [总结](https://github.com/wyl6/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%8A%80%E5%B7%A7.md)
 
-· int left = 0, right = 0;
+` int left = 0, right = 0;
   while (right < s.size()) 
   {
     window.add(s[right]);
@@ -240,7 +240,7 @@
         window.remove(s[left]);
         left++;
     }
-  } ·
+  } `
 
 ---
 ##### 3. 无重复字符的最长子串
@@ -255,11 +255,13 @@
 ##### 424. 替换后的最长重复字符
     map记录left和right中间的词频，最大词频+k后与窗口宽度比较，若更窄，则窗口中无法用此词填满，移动left。窗口的大小不减，所求结果为窗口大小
 ---
+##### 992. K 个不同整数的子数组
+    **固定right**，右移left记录符合条件的结果(之后还原)。若窗口中不同整数的个数大于K，右移K直至等于
+---
 ##### 1423. 可获得的最大点数
   * DFS,T(n) = 2^k
   * 滑动窗口，由于每次取为最左或最右，问题可转换为取宽度为cardPoints.size()-k的窗口的最小和
-    
-    
+
     
     
     
