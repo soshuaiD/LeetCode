@@ -279,7 +279,20 @@
     耐心排序，组间递增，组内递减。lower_bound函数
     第二题为第一题的升级版，先按一维排序后，另一维按照LIS排序
     
-    
+---
+##### 377. 组合总和 Ⅳ 518. 零钱兑换 II
+  与换零钱的差别在于换零钱为组合，没有排序。此题有排序
+  ```
+  loop 1;
+  for j in dp[]
+    for num in nums[]
+        dp[j] + = dp[j-num]
+  loop2;
+  for num in nums[]
+    for j in dp[]
+        dp[j] + = dp[j-num]
+  ```
+  第二种方式限制了顺序
     
     
     
